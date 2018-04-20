@@ -1,0 +1,36 @@
+[2018-04-16 17:27:59,466] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-04-16 17:28:06,249] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-04-16 17:28:06,651] - Comlog.py[line:30] - fuc:__console- INFO: 输入账号
+[2018-04-16 17:28:06,743] - Comlog.py[line:30] - fuc:__console- INFO: 输入密码
+[2018-04-16 17:28:11,869] - Comlog.py[line:30] - fuc:__console- INFO: ---kad账号登录成功----
+[2018-04-16 17:28:11,871] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-04-16 17:28:15,183] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-04-16 17:28:23,732] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-04-16 17:28:24,319] - Comlog.py[line:30] - fuc:__console- INFO: 输入注册账号
+[2018-04-16 17:28:24,385] - Comlog.py[line:30] - fuc:__console- INFO: 输入注册密码
+[2018-04-16 17:28:29,812] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-04-16 17:28:32,861] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-04-16 17:28:40,582] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-04-16 17:28:45,796] - Comlog.py[line:30] - fuc:__console- INFO: 搜索成功
+[2018-04-16 17:28:45,798] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-04-16 17:28:48,940] - Comlog.py[line:30] - fuc:__console- INFO: 生成测试报告
+[2018-04-16 17:28:48,944] - Comlog.py[line:30] - fuc:__console- INFO: attach file C:\Users\wb.liuweikun\PycharmProjects\baseTest\result//report.html
+[2018-04-16 17:28:49,673] - Comlog.py[line:30] - fuc:__console- INFO: 发送邮件"360KAD web测试报告"成功! 收件人：497096860@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+[2018-04-16 17:35:20,984] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-04-16 17:35:28,612] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-04-16 17:35:29,056] - Comlog.py[line:30] - fuc:__console- INFO: 输入账号
+[2018-04-16 17:35:29,188] - Comlog.py[line:30] - fuc:__console- INFO: 输入密码
+[2018-04-16 17:35:34,391] - Comlog.py[line:30] - fuc:__console- INFO: ---kad账号登录成功----
+[2018-04-16 17:35:34,391] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-04-16 17:35:37,526] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-04-16 17:35:43,561] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-04-16 17:35:43,632] - Comlog.py[line:30] - fuc:__console- INFO: 输入注册账号
+[2018-04-16 17:35:44,048] - Comlog.py[line:30] - fuc:__console- INFO: 输入注册密码
+[2018-04-16 17:35:49,410] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-04-16 17:35:52,559] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-04-16 17:35:58,910] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-04-16 17:36:04,085] - Comlog.py[line:30] - fuc:__console- INFO: 搜索成功
+[2018-04-16 17:36:04,085] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-04-16 17:36:07,132] - Comlog.py[line:30] - fuc:__console- INFO: 生成测试报告
+[2018-04-16 17:36:07,134] - Comlog.py[line:30] - fuc:__console- INFO: attach file C:\Users\wb.liuweikun\PycharmProjects\baseTest\result//report.html
+[2018-04-16 17:36:08,604] - Comlog.py[line:30] - fuc:__console- INFO: 发送邮件"360KAD web测试报告"成功! 收件人：497096860@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
