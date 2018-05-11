@@ -1,0 +1,296 @@
+[2018-05-11 14:22:08,440] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:22:18,155] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:22:23,713] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:35:10,755] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:35:18,536] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:35:23,312] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:36:02,230] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:36:09,213] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:36:13,979] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:41:17,282] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:41:23,767] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:41:30,640] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:42:25,292] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:42:31,595] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:42:31,604] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:51:06,757] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:51:13,670] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:51:13,677] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:55:07,210] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:55:13,476] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:55:13,516] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 14:55:14,009] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 14:55:14,115] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 14:55:14,118] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:55:28,473] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:55:34,456] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:55:34,492] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 14:55:39,855] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 14:55:39,964] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 14:55:39,969] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:56:22,984] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:56:29,808] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:56:29,845] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 14:56:35,573] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 14:56:35,713] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 14:56:35,717] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:56:45,687] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:56:51,727] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:56:51,763] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 14:57:06,941] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 14:57:07,058] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 14:57:14,604] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:58:04,283] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:58:12,046] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:58:12,086] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 14:58:17,628] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 14:58:33,589] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 14:58:41,479] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 14:58:41,515] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 14:58:46,915] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 14:58:47,025] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 14:58:47,029] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:01:23,092] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:01:31,292] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:01:31,329] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:01:36,805] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 15:01:36,911] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 15:01:36,911] - Comlog.py[line:30] - fuc:__console- INFO: 输入账号
+[2018-05-11 15:01:41,911] - Comlog.py[line:30] - fuc:__console- INFO: 输入密码
+[2018-05-11 15:01:46,979] - Comlog.py[line:30] - fuc:__console- INFO: ---kad账号登录成功----
+[2018-05-11 15:01:46,980] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:02:01,358] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:02:11,101] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:02:11,148] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:02:16,528] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:37:18,142] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:37:25,963] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:37:26,003] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:37:31,470] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 15:37:31,595] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 15:37:31,598] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:37:55,713] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:38:08,282] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:38:08,325] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:38:14,249] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 15:38:14,368] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 15:38:14,371] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:45:20,920] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:45:27,601] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:45:27,641] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:45:33,035] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:46:01,553] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:46:10,842] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:46:10,878] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:46:16,263] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:46:58,381] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:47:05,392] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:47:05,434] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:47:11,101] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:47:57,572] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:48:04,622] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:48:04,658] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:48:10,526] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:49:49,190] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:49:56,181] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:49:56,223] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:50:01,828] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:52:34,611] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:52:41,878] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:52:41,917] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:53:05,006] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 15:53:29,841] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:53:40,197] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:53:40,239] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:59:37,424] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 15:59:45,470] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 15:59:45,515] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 15:59:50,953] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 16:01:10,223] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 16:01:17,898] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 16:01:17,934] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 16:01:23,441] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 16:01:23,555] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 16:01:23,592] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserPassword 
+[2018-05-11 16:01:23,690] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk3312939\ in inputbox
+[2018-05-11 16:01:23,691] - Comlog.py[line:30] - fuc:__console- INFO: 输入账号
+[2018-05-11 16:01:28,693] - Comlog.py[line:30] - fuc:__console- INFO: 输入密码
+[2018-05-11 16:01:33,756] - Comlog.py[line:30] - fuc:__console- INFO: ---kad账号登录成功----
+[2018-05-11 16:01:33,757] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 16:18:19,318] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 16:18:25,361] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 16:18:25,401] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 16:18:30,832] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 16:18:30,944] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 16:18:30,976] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserPassword 
+[2018-05-11 16:18:31,055] - Comlog.py[line:30] - fuc:__console- INFO: Had type '3312939\ in inputbox
+[2018-05-11 16:18:31,055] - Comlog.py[line:30] - fuc:__console- INFO: 输入账号
+[2018-05-11 16:18:36,056] - Comlog.py[line:30] - fuc:__console- INFO: 输入密码
+[2018-05-11 16:18:41,118] - Comlog.py[line:30] - fuc:__console- INFO: ---kad账号登录成功----
+[2018-05-11 16:18:41,118] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:40:40,720] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:40:48,575] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:40:48,581] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:42:06,963] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:42:13,795] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:42:13,796] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:43:02,515] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:43:08,990] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:43:08,993] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:45:06,684] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:45:13,484] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:45:13,486] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:47:50,398] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:47:58,230] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:47:58,269] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 注册 ' successful by xpath via value: /html/body/div[1]/div/div[1]/div/a[2] 
+[2018-05-11 17:47:58,688] - Comlog.py[line:30] - fuc:__console- INFO: 你可以输入注册账号了
+[2018-05-11 17:47:58,690] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:49:50,825] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:49:59,436] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:49:59,480] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 注册 ' successful by xpath via value: /html/body/div[1]/div/div[1]/div/a[2] 
+[2018-05-11 17:49:59,848] - Comlog.py[line:30] - fuc:__console- INFO: 你可以输入注册账号了
+[2018-05-11 17:49:59,894] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobile 
+[2018-05-11 17:49:59,994] - Comlog.py[line:30] - fuc:__console- INFO: Had type '14563733040\ in inputbox
+[2018-05-11 17:49:59,996] - Comlog.py[line:30] - fuc:__console- INFO: 再输入注册密码试试看
+[2018-05-11 17:50:00,032] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtPwd 
+[2018-05-11 17:50:00,134] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'dIiVnyX\ in inputbox
+[2018-05-11 17:50:00,171] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtImgCode 
+[2018-05-11 17:50:00,253] - Comlog.py[line:30] - fuc:__console- INFO: Had type '4531\ in inputbox
+[2018-05-11 17:50:00,289] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobileCode 
+[2018-05-11 17:50:00,375] - Comlog.py[line:30] - fuc:__console- INFO: Had type '123456\ in inputbox
+[2018-05-11 17:50:00,377] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:50:47,750] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:50:56,539] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:50:56,578] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 注册 ' successful by xpath via value: /html/body/div[1]/div/div[1]/div/a[2] 
+[2018-05-11 17:50:56,903] - Comlog.py[line:30] - fuc:__console- INFO: 你可以输入注册账号了
+[2018-05-11 17:50:56,937] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobile 
+[2018-05-11 17:50:57,028] - Comlog.py[line:30] - fuc:__console- INFO: Had type '14523090313\ in inputbox
+[2018-05-11 17:50:57,029] - Comlog.py[line:30] - fuc:__console- INFO: 再输入注册密码试试看
+[2018-05-11 17:50:57,061] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtPwd 
+[2018-05-11 17:50:57,151] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'cyPTBg\ in inputbox
+[2018-05-11 17:50:57,184] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtImgCode 
+[2018-05-11 17:50:57,256] - Comlog.py[line:30] - fuc:__console- INFO: Had type '4531\ in inputbox
+[2018-05-11 17:50:57,289] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobileCode 
+[2018-05-11 17:50:57,368] - Comlog.py[line:30] - fuc:__console- INFO: Had type '123456\ in inputbox
+[2018-05-11 17:50:57,401] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 立即注册 ' successful by id via value: toLogin 
+[2018-05-11 17:50:57,532] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:51:11,727] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:51:18,627] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:51:18,660] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 注册 ' successful by xpath via value: /html/body/div[1]/div/div[1]/div/a[2] 
+[2018-05-11 17:51:18,996] - Comlog.py[line:30] - fuc:__console- INFO: 你可以输入注册账号了
+[2018-05-11 17:51:19,026] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobile 
+[2018-05-11 17:51:19,105] - Comlog.py[line:30] - fuc:__console- INFO: Had type '15872789067\ in inputbox
+[2018-05-11 17:51:19,107] - Comlog.py[line:30] - fuc:__console- INFO: 再输入注册密码试试看
+[2018-05-11 17:51:19,135] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtPwd 
+[2018-05-11 17:51:19,236] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'WZsAlM\ in inputbox
+[2018-05-11 17:51:19,266] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtImgCode 
+[2018-05-11 17:51:19,336] - Comlog.py[line:30] - fuc:__console- INFO: Had type '4531\ in inputbox
+[2018-05-11 17:51:19,367] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobileCode 
+[2018-05-11 17:51:19,440] - Comlog.py[line:30] - fuc:__console- INFO: Had type '123456\ in inputbox
+[2018-05-11 17:51:19,473] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 立即注册 ' successful by id via value: toLogin 
+[2018-05-11 17:51:19,605] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 17:51:26,315] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 17:51:32,926] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 17:51:32,967] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 注册 ' successful by xpath via value: /html/body/div[1]/div/div[1]/div/a[2] 
+[2018-05-11 17:51:33,328] - Comlog.py[line:30] - fuc:__console- INFO: 你可以输入注册账号了
+[2018-05-11 17:51:33,359] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobile 
+[2018-05-11 17:51:33,456] - Comlog.py[line:30] - fuc:__console- INFO: Had type '14585146892\ in inputbox
+[2018-05-11 17:51:33,457] - Comlog.py[line:30] - fuc:__console- INFO: 再输入注册密码试试看
+[2018-05-11 17:51:33,487] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtPwd 
+[2018-05-11 17:51:33,595] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'LWayPTlZ\ in inputbox
+[2018-05-11 17:51:33,625] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtImgCode 
+[2018-05-11 17:51:33,703] - Comlog.py[line:30] - fuc:__console- INFO: Had type '4531\ in inputbox
+[2018-05-11 17:51:33,734] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobileCode 
+[2018-05-11 17:51:33,816] - Comlog.py[line:30] - fuc:__console- INFO: Had type '123456\ in inputbox
+[2018-05-11 17:51:33,857] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 立即注册 ' successful by id via value: toLogin 
+[2018-05-11 17:51:33,982] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 18:50:09,509] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 18:50:16,608] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 18:50:16,611] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 18:50:32,459] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 18:50:40,778] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 18:51:38,351] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 18:51:46,872] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 18:51:46,875] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 18:52:15,664] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 18:52:22,392] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 18:52:22,398] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:20:14,361] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:20:20,941] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 19:20:20,999] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 19:20:26,413] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 19:20:26,515] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 19:20:26,545] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserPassword 
+[2018-05-11 19:20:26,611] - Comlog.py[line:30] - fuc:__console- INFO: Had type '3312939\ in inputbox
+[2018-05-11 19:20:26,612] - Comlog.py[line:30] - fuc:__console- INFO: ---可以输入账号了呀
+[2018-05-11 19:20:31,612] - Comlog.py[line:30] - fuc:__console- INFO: ---赶紧输入密码吧
+[2018-05-11 19:20:31,644] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登    录 ' successful by id via value: LoginButton 
+[2018-05-11 19:20:36,690] - Comlog.py[line:30] - fuc:__console- INFO: ---kad账号登录成功了，小伙伴要开始买东西了吗----
+[2018-05-11 19:20:36,691] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:20:39,934] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:20:46,934] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 19:20:46,971] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 注册 ' successful by xpath via value: /html/body/div[1]/div/div[1]/div/a[2] 
+[2018-05-11 19:20:47,565] - Comlog.py[line:30] - fuc:__console- INFO: 你可以输入注册账号了
+[2018-05-11 19:20:47,598] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobile 
+[2018-05-11 19:20:47,687] - Comlog.py[line:30] - fuc:__console- INFO: Had type '15215578516\ in inputbox
+[2018-05-11 19:20:47,688] - Comlog.py[line:30] - fuc:__console- INFO: 再输入注册密码试试看
+[2018-05-11 19:20:47,720] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtPwd 
+[2018-05-11 19:20:47,821] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'uIQHhTq\ in inputbox
+[2018-05-11 19:20:47,852] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtImgCode 
+[2018-05-11 19:20:47,946] - Comlog.py[line:30] - fuc:__console- INFO: Had type '4531\ in inputbox
+[2018-05-11 19:20:47,980] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobileCode 
+[2018-05-11 19:20:48,099] - Comlog.py[line:30] - fuc:__console- INFO: Had type '123456\ in inputbox
+[2018-05-11 19:20:48,138] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 立即注册 ' successful by id via value: toLogin 
+[2018-05-11 19:20:48,276] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:20:51,375] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:20:58,999] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:20:59,002] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:21:02,197] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:21:09,036] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:21:09,038] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:21:12,201] - Comlog.py[line:30] - fuc:__console- INFO: 生成测试报告
+[2018-05-11 19:21:12,250] - Comlog.py[line:30] - fuc:__console- INFO: attach file C:\Users\wb.liuweikun\PycharmProjects\baseTest\result//report.html
+[2018-05-11 19:21:25,335] - Comlog.py[line:30] - fuc:__console- INFO: 发送邮件"360KAD web测试报告"成功! 收件人：497096860@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+[2018-05-11 19:22:39,309] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:22:45,858] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:28:37,973] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:28:44,444] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:28:44,448] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:30:06,217] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:30:13,171] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:30:13,174] - Comlog.py[line:30] - fuc:__console- INFO: -----输入搜索关键词-----
+[2018-05-11 19:30:13,186] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:30:33,243] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:30:40,688] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:30:40,690] - Comlog.py[line:30] - fuc:__console- INFO: -----输入搜索关键词-----
+[2018-05-11 19:30:40,736] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: pageText 
+[2018-05-11 19:30:40,892] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:31:00,467] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:31:06,552] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:31:06,552] - Comlog.py[line:30] - fuc:__console- INFO: -----输入搜索关键词-----
+[2018-05-11 19:31:06,592] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: pageText 
+[2018-05-11 19:31:06,696] - Comlog.py[line:30] - fuc:__console- INFO: Had type '感冒药\ in inputbox
+[2018-05-11 19:31:06,744] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: BtnSearchProdut 
+[2018-05-11 19:31:09,257] - Comlog.py[line:30] - fuc:__console- INFO: 搜索成功
+[2018-05-11 19:31:11,259] - Comlog.py[line:30] - fuc:__console- INFO: Fail to save_screen_shot
+[2018-05-11 19:31:11,259] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:32:07,602] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:32:13,790] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:32:13,792] - Comlog.py[line:30] - fuc:__console- INFO: -----输入搜索关键词-----
+[2018-05-11 19:32:13,825] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: pageText 
+[2018-05-11 19:32:13,907] - Comlog.py[line:30] - fuc:__console- INFO: Had type '感冒药\ in inputbox
+[2018-05-11 19:32:13,956] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: BtnSearchProdut 
+[2018-05-11 19:32:15,832] - Comlog.py[line:30] - fuc:__console- INFO: 搜索成功
+[2018-05-11 19:32:17,835] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:33:36,094] - Comlog.py[line:30] - fuc:__console- INFO: 你所寻找的文件夹不存在，正在创建文件当中....文件创建成功
+[2018-05-11 19:33:46,540] - Comlog.py[line:30] - fuc:__console- INFO: 正在截图...截图成功保存
+[2018-05-11 19:34:00,798] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:34:08,104] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+[2018-05-11 19:34:08,105] - Comlog.py[line:30] - fuc:__console- INFO: -----输入搜索关键词-----
+[2018-05-11 19:34:08,144] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: pageText 
+[2018-05-11 19:34:08,253] - Comlog.py[line:30] - fuc:__console- INFO: Had type '感冒药\ in inputbox
+[2018-05-11 19:34:08,305] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: BtnSearchProdut 
+[2018-05-11 19:34:10,161] - Comlog.py[line:30] - fuc:__console- INFO: 搜索成功
+[2018-05-11 19:34:12,161] - Comlog.py[line:30] - fuc:__console- INFO: 你所寻找的文件夹不存在，正在创建文件当中....文件创建成功
+[2018-05-11 19:34:20,506] - Comlog.py[line:30] - fuc:__console- INFO: 正在截图...截图成功保存
+[2018-05-11 19:34:20,506] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---

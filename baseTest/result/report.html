@@ -38,9 +38,9 @@ table       { font-size: 100%; }
 <div class='heading'>
 <h1 style="font-family: Microsoft YaHei">Test report</h1>
 <p class='attribute'><strong>测试人员 : </strong> QA</p>
-<p class='attribute'><strong>开始时间 : </strong> 2018-04-17 14:03:34</p>
-<p class='attribute'><strong>合计耗时 : </strong> 0:05:42.638000</p>
-<p class='attribute'><strong>测试结果 : </strong> 共 3，通过 2，错误 1，通过率= 66.67%</p>
+<p class='attribute'><strong>开始时间 : </strong> 2018-05-11 19:20:14</p>
+<p class='attribute'><strong>合计耗时 : </strong> 0:00:57.839000</p>
+<p class='attribute'><strong>测试结果 : </strong> 共 4，通过 2，错误 2，通过率= 50.00%</p>
 
 <p class='description'>Report_Description</p>
 </div>
@@ -48,11 +48,11 @@ table       { font-size: 100%; }
 
 
 <p id='show_detail_line'>
-<a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 66.67% }</a>
+<a class="btn btn-primary" href='javascript:showCase(4)'>概要{ 50.00% }</a>
 <a class="btn btn-success" href='javascript:showCase(0)'>通过{ 2 }</a>
 <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
-<a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 1 }</a>
-<a class="btn btn-info" href='javascript:showCase(3)'>所有{ 3 }</a>
+<a class="btn btn-warning" href='javascript:showCase(2)'>错误{ 2 }</a>
+<a class="btn btn-info" href='javascript:showCase(3)'>所有{ 4 }</a>
 </p>
 <table id='result_table' class="table table-condensed table-bordered table-hover">
 <colgroup>
@@ -74,11 +74,11 @@ table       { font-size: 100%; }
 
 <tr class='warning'>
     <td>Test_Kad</td>
-    <td class="text-center">3</td>
+    <td class="text-center">4</td>
     <td class="text-center">2</td>
     <td class="text-center">0</td>
-    <td class="text-center">1</td>
-    <td class="text-center"><a href="javascript:showClassDetail('c1',3)" class="detail" id='c1'>详细</a></td>
+    <td class="text-center">2</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c1',4)" class="detail" id='c1'>详细</a></td>
 </tr>
 
 <tr id='pt1_1' class='hiddenRow'>
@@ -93,13 +93,19 @@ table       { font-size: 100%; }
     <div id='div_pt1_1' class="collapse in">
     <pre>
     
-pt1_1: [2018-04-17 14:03:34,637] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+pt1_1: [2018-05-11 19:20:14,361] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
 No handlers could be found for logger "selenium.webdriver.remote.remote_connection"
-[2018-04-17 14:03:43,164] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
-[2018-04-17 14:03:43,549] - Comlog.py[line:30] - fuc:__console- INFO: 输入账号
-[2018-04-17 14:03:43,617] - Comlog.py[line:30] - fuc:__console- INFO: 输入密码
-[2018-04-17 14:03:48,726] - Comlog.py[line:30] - fuc:__console- INFO: ---kad账号登录成功----
-[2018-04-17 14:03:48,726] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+[2018-05-11 19:20:20,941] - Comlog.py[line:30] - fuc:__console- INFO: ----开始测试登录----
+[2018-05-11 19:20:20,999] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登录 ' successful by xpath via value:  /html/body/div[1]/div/div[1]/div/a[1] 
+[2018-05-11 19:20:26,413] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserName 
+[2018-05-11 19:20:26,515] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'lwk9003@163.com\ in inputbox
+[2018-05-11 19:20:26,545] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: UserPassword 
+[2018-05-11 19:20:26,611] - Comlog.py[line:30] - fuc:__console- INFO: Had type '3312939\ in inputbox
+[2018-05-11 19:20:26,612] - Comlog.py[line:30] - fuc:__console- INFO: ---可以输入账号了呀
+[2018-05-11 19:20:31,612] - Comlog.py[line:30] - fuc:__console- INFO: ---赶紧输入密码吧
+[2018-05-11 19:20:31,644] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 登    录 ' successful by id via value: LoginButton 
+[2018-05-11 19:20:36,690] - Comlog.py[line:30] - fuc:__console- INFO: ---kad账号登录成功了，小伙伴要开始买东西了吗----
+[2018-05-11 19:20:36,691] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
 
 
     </pre>
@@ -107,36 +113,64 @@ No handlers could be found for logger "selenium.webdriver.remote.remote_connecti
     </td>
 </tr>
 
-<tr id='et1_2' class='none'>
-    <td class='errorCase'><div class='testcase'>test_Regist</div></td>
+<tr id='pt1_2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_Regist</div></td>
     <td colspan='5' align='center'>
     <!--默认收起output信息 -Findyou
-    <button id='btn_et1_2' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et1_2'>错误</button>
-    <div id='div_et1_2' class="collapse">  -->
+    <button id='btn_pt1_2' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_2'>通过</button>
+    <div id='div_pt1_2' class="collapse">  -->
 
     <!-- 默认展开output信息 -Findyou -->
-    <button id='btn_et1_2' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et1_2'>错误</button>
-    <div id='div_et1_2' class="collapse in">
+    <button id='btn_pt1_2' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt1_2'>通过</button>
+    <div id='div_pt1_2' class="collapse in">
     <pre>
     
-et1_2: [2018-04-17 14:03:51,884] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
-[2018-04-17 14:03:58,249] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+pt1_2: [2018-05-11 19:20:39,934] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:20:46,934] - Comlog.py[line:30] - fuc:__console- INFO: ---开始注册测试----
+[2018-05-11 19:20:46,971] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 注册 ' successful by xpath via value: /html/body/div[1]/div/div[1]/div/a[2] 
+[2018-05-11 19:20:47,565] - Comlog.py[line:30] - fuc:__console- INFO: 你可以输入注册账号了
+[2018-05-11 19:20:47,598] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobile 
+[2018-05-11 19:20:47,687] - Comlog.py[line:30] - fuc:__console- INFO: Had type '15215578516\ in inputbox
+[2018-05-11 19:20:47,688] - Comlog.py[line:30] - fuc:__console- INFO: 再输入注册密码试试看
+[2018-05-11 19:20:47,720] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtPwd 
+[2018-05-11 19:20:47,821] - Comlog.py[line:30] - fuc:__console- INFO: Had type 'uIQHhTq\ in inputbox
+[2018-05-11 19:20:47,852] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtImgCode 
+[2018-05-11 19:20:47,946] - Comlog.py[line:30] - fuc:__console- INFO: Had type '4531\ in inputbox
+[2018-05-11 19:20:47,980] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element '  ' successful by id via value: txtMobileCode 
+[2018-05-11 19:20:48,099] - Comlog.py[line:30] - fuc:__console- INFO: Had type '123456\ in inputbox
+[2018-05-11 19:20:48,138] - Comlog.py[line:30] - fuc:__console- INFO: Had find the element ' 立即注册 ' successful by id via value: toLogin 
+[2018-05-11 19:20:48,276] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='et1_3' class='none'>
+    <td class='errorCase'><div class='testcase'>test_search</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起output信息 -Findyou
+    <button id='btn_et1_3' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et1_3'>错误</button>
+    <div id='div_et1_3' class="collapse">  -->
+
+    <!-- 默认展开output信息 -Findyou -->
+    <button id='btn_et1_3' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et1_3'>错误</button>
+    <div id='div_et1_3' class="collapse in">
+    <pre>
+    
+et1_3: [2018-05-11 19:20:51,375] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:20:58,999] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
 Traceback (most recent call last):
-  File "C:/Users/wb.liuweikun/PycharmProjects/baseTest/allrun.py", line 32, in test_Regist
-    self.driver.find_element_by_xpath("/html/body/div[1]/div/div[1]/div/a[2]").click()
-  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
-    self._execute(Command.CLICK_ELEMENT)
-  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
-    return self._parent.execute(command, params)
-  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
-    self.error_handler.check_response(response)
-  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
-    raise exception_class(message, screen, stacktrace)
-TimeoutException: Message: timeout: cannot determine loading status
-from timeout: Timed out receiving message from renderer: -0.013
-  (Session info: chrome=54.0.2840.71)
-  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64)
-
+  File "C:/Users/wb.liuweikun/PycharmProjects/baseTest/allrun.py", line 53, in test_search
+    searchprut.type_textpage("感冒药")
+  File "C:\Users\wb.liuweikun\PycharmProjects\baseTest\common\page\public_page.py", line 43, in type_textpage
+    self.type(self.input_textpage,submit)
+  File "C:\Users\wb.liuweikun\PycharmProjects\baseTest\common\page\base_page.py", line 70, in type
+    el = self.find_element(selector)
+  File "C:\Users\wb.liuweikun\PycharmProjects\baseTest\common\page\base_page.py", line 58, in find_element
+    raise NameError("Please enter a valid type of targeting elements.")
+NameError: Please enter a valid type of targeting elements.
 
 
     </pre>
@@ -144,22 +178,32 @@ from timeout: Timed out receiving message from renderer: -0.013
     </td>
 </tr>
 
-<tr id='pt1_3' class='hiddenRow'>
-    <td class='passCase'><div class='testcase'>test_search</div></td>
+<tr id='et1_4' class='none'>
+    <td class='errorCase'><div class='testcase'>test_Bugcat</div></td>
     <td colspan='5' align='center'>
     <!--默认收起output信息 -Findyou
-    <button id='btn_pt1_3' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_3'>通过</button>
-    <div id='div_pt1_3' class="collapse">  -->
+    <button id='btn_et1_4' type="button"  class="btn-xs collapsed" data-toggle="collapse" data-target='#div_et1_4'>错误</button>
+    <div id='div_et1_4' class="collapse">  -->
 
     <!-- 默认展开output信息 -Findyou -->
-    <button id='btn_pt1_3' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_pt1_3'>通过</button>
-    <div id='div_pt1_3' class="collapse in">
+    <button id='btn_et1_4' type="button"  class="btn-xs" data-toggle="collapse" data-target='#div_et1_4'>错误</button>
+    <div id='div_et1_4' class="collapse in">
     <pre>
     
-pt1_3: [2018-04-17 14:09:01,471] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
-[2018-04-17 14:09:07,976] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
-[2018-04-17 14:09:14,138] - Comlog.py[line:30] - fuc:__console- INFO: 搜索成功
-[2018-04-17 14:09:14,140] - Comlog.py[line:30] - fuc:__console- INFO: ---测试结束---
+et1_4: [2018-05-11 19:21:02,197] - Comlog.py[line:30] - fuc:__console- INFO: ---测试开始----
+[2018-05-11 19:21:09,036] - Comlog.py[line:30] - fuc:__console- INFO: ---开始搜索测试----
+Traceback (most recent call last):
+  File "C:/Users/wb.liuweikun/PycharmProjects/baseTest/allrun.py", line 65, in test_Bugcat
+    self.test_search()
+  File "C:/Users/wb.liuweikun/PycharmProjects/baseTest/allrun.py", line 53, in test_search
+    searchprut.type_textpage("感冒药")
+  File "C:\Users\wb.liuweikun\PycharmProjects\baseTest\common\page\public_page.py", line 43, in type_textpage
+    self.type(self.input_textpage,submit)
+  File "C:\Users\wb.liuweikun\PycharmProjects\baseTest\common\page\base_page.py", line 70, in type
+    el = self.find_element(selector)
+  File "C:\Users\wb.liuweikun\PycharmProjects\baseTest\common\page\base_page.py", line 58, in find_element
+    raise NameError("Please enter a valid type of targeting elements.")
+NameError: Please enter a valid type of targeting elements.
 
 
     </pre>
@@ -169,11 +213,11 @@ pt1_3: [2018-04-17 14:09:01,471] - Comlog.py[line:30] - fuc:__console- INFO: ---
 
 <tr id='total_row' class="text-center info">
     <td>总计</td>
-    <td>3</td>
+    <td>4</td>
     <td>2</td>
     <td>0</td>
-    <td>1</td>
-    <td>通过率：66.67%</td>
+    <td>2</td>
+    <td>通过率：50.00%</td>
 </tr>
 </table>
 
